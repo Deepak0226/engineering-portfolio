@@ -26,4 +26,4 @@ Click the links below to view my full engineering breakdowns, calculation workfl
 
 ## 📫 Let's Connect!
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/deepak-sethi-53a190369/edit/forms/summary/new/]
-* 📧 **Email:** [deepaksetti2006@gmial.com]
+* 📧 **Email:** [deepaksetti2006@gmail.com]
