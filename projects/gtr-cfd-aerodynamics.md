@@ -16,7 +16,7 @@ Before running a fluid simulation, raw CAD geometry must be optimized for CFD to
 
 > 📷 **GT-R Computational Domain:**
 > *[Insert your screenshot showing the GT-R enclosed inside the Ansys Fluent fluid domain box]*
-> `![GT-R Fluid Domain Enclosure](../assets/images/gtr-domain.png)`
+> `![GT-R Fluid Domain Enclosure](./assets/images/gtr-domain.png)`
 
 ---
 
@@ -34,7 +34,7 @@ To resolve the complex fluid-structure interactions, a high-density finite volum
 
 > 📷 **CFD Mesh Layout:**
 > *[Insert your screenshot of the fluid mesh, specifically showing the inflation layers around the car body]*
-> `![Vehicle Surface Inflation Layer Mesh](../assets/images/gtr-cfd-mesh.png)`
+> `![Vehicle Surface Inflation Layer Mesh](./assets/images/gtr-cfd-mesh.png)`
 
 ---
 
@@ -53,11 +53,11 @@ After the residuals converged ($< 10^{-4}$ for continuity and momentum equations
 
 > 📷 **Pressure Contour Distribution:**
 > *[Insert your color Ansys Fluent pressure plot showing red at the front bumper and blue over curves]*
-> `![Static Pressure Contours](../assets/images/gtr-pressure-plot.png)`
+> `![Static Pressure Contours](./assets/images/gtr-pressure-plot.png)`
 
 > 📷 **Velocity Vector Streamlines:**
 > *[Insert your Fluent streamline plot showing the airflow paths over the vehicle silhouette]*
-> `![Velocity Streamlines and Wake Development](../assets/images/gtr-streamlines.png)`
+> `![Velocity Streamlines and Wake Development](./assets/images/gtr-streamlines.png)`
 
 ---
 
